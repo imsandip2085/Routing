@@ -1,30 +1,30 @@
-body{
+body {
   margin: 0;
   padding: 0;
 }
-.ul{
+.ul {
   margin-top: 0;
   background-color: blue;
   height: 60px;
   width: 100%;
 }
-.li{
+.li {
   list-style: none;
   float: left;
   padding-left: 10px;
   padding-top: 20px;
 }
-.li a{
+.li a {
   text-decoration: none;
   color: white;
 }
-h2{
+h2 {
   margin-left: 50%;
 }
-.message1{
- list-style: none;
+.message1 {
+  list-style: none;
 }
-.message1 a{
+.message1 a {
   text-decoration: none;
   color: teal;
 }
